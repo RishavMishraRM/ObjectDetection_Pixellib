@@ -6,7 +6,11 @@
 As we can see these images below :- 
 ~~~
 <img src = "https://github.com/RishavMishraRM/ObjectDetection_Pixellib/blob/main/cycle.jpg" >
+
+
 ~~~
 After detecting objects in this given image we can find the image like this :-
 ~~~
+
+
 <img src = "https://github.com/RishavMishraRM/ObjectDetection_Pixellib/blob/main/output.jpg" >
